@@ -1,4 +1,3 @@
-void main (String args[]){
-
+void main (){
     System.out.println("Hello World!!!");
 }
